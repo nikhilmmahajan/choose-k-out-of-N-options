@@ -1,0 +1,3 @@
+C:/Users/Home/CLionProjects/choose k out of N options/cmake-build-debug/CMakeFiles/choose_k_out_of_N_options.dir
+C:/Users/Home/CLionProjects/choose k out of N options/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Home/CLionProjects/choose k out of N options/cmake-build-debug/CMakeFiles/rebuild_cache.dir
