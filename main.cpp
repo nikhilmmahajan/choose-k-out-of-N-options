@@ -10,6 +10,8 @@ int choose(int n, int k)
 
     return choose(n-1,k-1) + choose(n-1,k);
 
+
+    
 }
 
 
